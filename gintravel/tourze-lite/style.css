@@ -1,0 +1,24 @@
+/*
+Theme Name: Tourze Lite
+Description: Tourze Lite is a Travel Agency and Tour Booking WordPress Block Theme designed for businesses that want to create a modern and engaging travel website. Built with full site editing and powered by Gutenverse, this theme provides a flexible and visually appealing platform to showcase tour packages, destinations, and travel experiences with a clean and professional design. Whether you manage a travel agency, tour operator service, or booking platform, this Travel Agency and Tour Booking theme helps you present your offerings effectively. It is ideal for travel consultants, tour guides, adventure organizers, holiday planners, and destination management companies looking to expand their online presence. With responsive layouts, customizable block patterns, and well-structured pages, you can easily highlight itineraries, pricing, testimonials, and booking information. Optimized for performance and ease of use, Tourze Lite allows you to build a professional website that reflects your brand and expertise in Travel Agency and Tour Booking services.
+Author: Jegstudio
+Author URI: https://gutenverse.com
+Theme URI: https://gutenverse.com/themes/tourze-lite/
+Version: 1.0.5
+Stable tag: 1.0.5
+Requires at least: 6.5
+Tested up to: 6.9
+Requires PHP: 7.0
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: tourze-lite
+Domain Path: /languages
+Tags: block-patterns,block-styles,custom-menu,full-site-editing
+Copyright: © Jegstudio. All rights reserved.
+*/
+
+
+
+.editor-styles-wrapper .block-editor-block-list__layout.is-root-container > .block-library-block__reusable-block-container {
+    max-width: 100%;
+}

@@ -1,0 +1,39 @@
+<?php
+/**
+ * Pattern content.
+ */
+return array(
+	'title'      => __( 'Tourze Lite Gutenverse 404 Hero', 'tourze-lite' ),
+	'categories' => array( 'tourze-lite-gutenverse' ),
+	'content'    => '<!-- wp:gutenverse/section {"width":{"Desktop":"1290"},"height":{"Desktop":{"unit":"px"}},"gap":"no","elementId":"guten-mvtQzI","heightControl":"fit","verticalAlign":"center","background":{"type":"default","image":{"Desktop":{"id":150,"image":"' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/beach-sea-coast-water-ocean-boat-599398-pxhere.com_.webp"}},"position":{"Desktop":"center center"},"repeat":{"Desktop":"no-repeat"},"size":{"Desktop":"cover"},"fetchPriorityHigh":true},"backgroundOverlay":{"type":"default","color":{"type":"variable","id":"gv-color-primary"}},"opacity":"0.8","padding":{"Tablet":{"unit":"px","dimension":{"right":"20","left":"20","top":"108"}},"Mobile":{"unit":"px","dimension":{"right":"15","left":"15"}}}} -->
+<div class="section-wrapper" data-id="mvtQzI"><section class="wp-block-gutenverse-section guten-element guten-section guten-mvtQzI layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-container guten-column-gap-no"><!-- wp:gutenverse/column {"width":{"Desktop":100,"Tablet":100},"sectionVerticalAlign":"center","elementId":"guten-T9ru8Z","verticalAlign":{"Desktop":"center"},"horizontalAlign":{"Desktop":"center"}} -->
+<div class="wp-block-gutenverse-column guten-element guten-column guten-T9ru8Z"><div class="guten-column-wrapper" data-id="T9ru8Z"><!-- wp:gutenverse/section {"layout":"fullwidth","gap":"no","elementId":"guten-MS1fB2"} -->
+<div class="section-wrapper" data-id="MS1fB2"><section class="wp-block-gutenverse-section guten-element guten-section guten-MS1fB2 layout-fullwidth align-stretch"><div class="guten-container guten-column-gap-no"><!-- wp:gutenverse/column {"width":{"Desktop":50,"Tablet":100},"elementId":"guten-QYvnsr"} -->
+<div class="wp-block-gutenverse-column guten-element guten-column guten-QYvnsr"><div class="guten-column-wrapper" data-id="QYvnsr"><!-- wp:gutenverse/heading {"elementId":"guten-XBR84K","type":1,"textAlign":{"Desktop":"center"},"color":{"r":255,"g":249,"b":237,"a":0.6},"typography":{"type":"variable","id":"gv-font-heading-404","lineHeight":{"Mobile":{"unit":"px"}},"size":{"Mobile":{"unit":"px"}}},"containsAnchorTag":false,"margin":{"Desktop":{"unit":"px","dimension":{"bottom":"0","top":"0"}}}} -->
+<h1 class="wp-block-gutenverse-heading guten-element guten-XBR84K">404</h1>
+<!-- /wp:gutenverse/heading --></div></div>
+<!-- /wp:gutenverse/column -->
+
+<!-- wp:gutenverse/column {"width":{"Desktop":50,"Tablet":100},"elementId":"guten-WQQ6HI","verticalAlign":{"Desktop":"center","Tablet":"center"},"horizontalAlign":{"Desktop":"flex-start","Tablet":"center"}} -->
+<div class="wp-block-gutenverse-column guten-element guten-column guten-WQQ6HI"><div class="guten-column-wrapper" data-id="WQQ6HI"><!-- wp:gutenverse/heading {"elementId":"guten-vj9Ub8","textAlign":{"Desktop":"left","Tablet":"center"},"color":{"type":"variable","id":"gv-color-secondary"},"typography":{"type":"variable","id":"gv-font-secondary","lineHeight":{"Desktop":{"unit":"em","point":"1.1"},"Tablet":{"unit":"px"},"Mobile":{"unit":"px"}},"size":{"Desktop":{"unit":"px","point":"52"},"Tablet":{"unit":"px","point":"52"},"Mobile":{"unit":"px","point":"46"}},"font":{"label":"Host Grotesk","value":"Host Grotesk","type":"google"},"weight":"600"},"containsAnchorTag":false,"margin":{"Desktop":{"unit":"px","dimension":{"top":"0","bottom":"20"}}},"positioningType":{"Desktop":"default"},"positioningWidth":{"Desktop":{"unit":"px","point":"631"}}} -->
+<h2 class="wp-block-gutenverse-heading guten-element guten-vj9Ub8">Sorry Page Not Found</h2>
+<!-- /wp:gutenverse/heading -->
+
+<!-- wp:gutenverse/text-editor {"elementId":"guten-jd8Usv","gap":{"Desktop":{"unit":"px"},"Tablet":{"unit":"px"}},"textIndent":{"Desktop":{"unit":"px"},"Tablet":{"unit":"px"}},"alignment":{"Desktop":"left","Tablet":"center"},"textColor":{"type":"variable","id":"gv-color-text-secondary"},"typography":{"type":"variable","id":"gv-font-text","lineHeight":{"Desktop":{"unit":"em","point":"1.6"},"Tablet":{"unit":"px"},"Mobile":{"unit":"px"}},"size":{"Desktop":{"unit":"px","point":"18"},"Tablet":{"unit":"px","point":"18"},"Mobile":{"unit":"px","point":"16"}},"font":{"label":"Poppins","value":"Poppins","type":"google"},"weight":"400"},"containsAnchorTag":false,"margin":{"Desktop":{"unit":"px","dimension":{"bottom":"40"}}},"positioningType":{"Desktop":"custom"},"positioningWidth":{"Desktop":{"unit":"px","point":"510"}}} -->
+<div class="guten-element gutenverse-text-editor guten-jd8Usv"><div class="text-content-inner"><!-- wp:paragraph -->
+<p>Looks like the page you’re looking for isn’t here. Let’s get you back on the right path.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:gutenverse/text-editor -->
+
+<!-- wp:gutenverse/button {"elementId":"guten-oxTDpf","content":"Back to Homepage","buttonWidth":{"Desktop":""},"alignButton":{"Mobile":"center","Desktop":"left","Tablet":"center"},"paddingButton":{"Desktop":{"unit":"px","dimension":{"top":"18","bottom":"18","right":"28","left":"32"}}},"buttonBackground":{"type":"default","color":{"type":"variable","id":"gv-color-accent"}},"buttonBackgroundHover":{"type":"default","color":{"type":"variable","id":"gv-color-accent-hover"}},"buttonBorder":{"radius":{"Desktop":{"unit":"px","dimension":{"top":"50","right":"50","bottom":"50","left":"50"}}}},"showIcon":true,"icon":"gtn gtn-right-arrow-light","iconType":"svg","iconSVG":"PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+CjxwYXRoIGQ9Ik0yMS41NjMgNS4wOTRxLTAuMzQ0LTAuMzQ0LTAuODEzLTAuMzQ0dC0wLjgxMyAwLjM0NHEtMC4zNDQgMC4zMTMtMC4zNDQgMC43ODF0MC4zNDQgMC44MTNsOC4xODggOC4xODhoLTI3cS0wLjQ2OSAwLTAuNzk3IDAuMzI4dC0wLjMyOCAwLjc5NyAwLjMyOCAwLjc5NyAwLjc5NyAwLjMyOGgyN2wtOC4xODggOC4xODhxLTAuMzQ0IDAuMzEzLTAuMzQ0IDAuNzk3dDAuMzQ0IDAuNzk3cTAuMzQ0IDAuMzQ0IDAuODEzIDAuMzQ0dDAuODEzLTAuMzQ0bDEwLjA5NC0xMC4wOTRxMC4zNDQtMC4zNDQgMC4zNDQtMC44MTN0LTAuMzQ0LTAuODEzbC0xMC4wOTQtMTAuMDk0eiI+PC9wYXRoPgo8L3N2Zz4K","iconPosition":"after","iconSpacing":{"Desktop":"12"},"iconSize":{"Desktop":{"unit":"px","point":"20"},"Mobile":{"unit":"px"},"Tablet":{"unit":"px"}},"margin":{"Desktop":{"unit":"px","dimension":{"top":"0","right":"0","bottom":"0","left":"0"}}},"padding":{"Desktop":{"unit":"px","dimension":{"top":"0","right":"0","bottom":"0","left":"0"}}},"color":{"type":"variable","id":"gv-color-white"},"iconColor":{"type":"variable","id":"gv-color-white"},"typography":{"type":"variable","id":"gv-font-button-primary","lineHeight":{"Desktop":{"unit":"em","point":"1"},"Tablet":{"unit":"px"},"Mobile":{"unit":"px"}},"size":{"Desktop":{"unit":"px","point":"20"},"Tablet":{"unit":"px","point":"20"},"Mobile":{"unit":"px","point":"18"}},"font":{"label":"Host Grotesk","value":"Host Grotesk","type":"google"},"weight":"500"},"positioningType":{"Desktop":"default"},"positioningWidth":{"Desktop":{"unit":"px","point":"549"}},"ariaLabel":"Back to homepage"} -->
+<div class="guten-element guten-button-wrapper guten-oxTDpf"><a class="guten-button guten-button-sm" href="#" aria-label="Back to homepage"><span>Back to Homepage</span><div class="gutenverse-icon-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<path d="M21.563 5.094q-0.344-0.344-0.813-0.344t-0.813 0.344q-0.344 0.313-0.344 0.781t0.344 0.813l8.188 8.188h-27q-0.469 0-0.797 0.328t-0.328 0.797 0.328 0.797 0.797 0.328h27l-8.188 8.188q-0.344 0.313-0.344 0.797t0.344 0.797q0.344 0.344 0.813 0.344t0.813-0.344l10.094-10.094q0.344-0.344 0.344-0.813t-0.344-0.813l-10.094-10.094z"></path>
+</svg>
+</div></a></div>
+<!-- /wp:gutenverse/button --></div></div>
+<!-- /wp:gutenverse/column --></div></section></div>
+<!-- /wp:gutenverse/section --></div></div>
+<!-- /wp:gutenverse/column --></div></section></div>
+<!-- /wp:gutenverse/section -->',
+	'is_sync' => false,
+);
